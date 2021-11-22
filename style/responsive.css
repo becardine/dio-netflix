@@ -1,0 +1,32 @@
+@media screen and (max-width: 700px) {
+    label[for="bt-menu"] {
+        display: block;
+    }
+
+    #bt-menu:checked ~ .menu {
+        margin-left: 0;
+    }
+
+    .menu{
+        margin-left: -200%;
+        transition: all .4s;
+    }
+
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 190px;
+        height: 60px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .descricao {
+        width: 50%;
+    }
+}
+
