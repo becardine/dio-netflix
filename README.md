@@ -1,4 +1,4 @@
-# Recriando página inícial da Netflix
+# Recriando página inicial da Netflix
 
 ### HTML Web Developer
 
@@ -10,10 +10,12 @@
 
 ![](img/screenshot2.png)
 
-- Criei um dropdown para dispositivos menores que 700px
+- Criei um dropdown para dispositivos menores
 
 
 
-### Aprendendo 
+### Aprendendo 🚀
 
+
+:dart: [becardine](https://www.linkedin.com/in/becardine)
 
